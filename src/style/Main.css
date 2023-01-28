@@ -1,0 +1,78 @@
+
+.bodymain {
+	background: linear-gradient(-45deg, #ebdc5a, #56d29a, #6ac1e0, #d262c5);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.bodysec {
+	background: linear-gradient(-45deg, #c9be5f, #70b194, #7cacbe, #ab79a5);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.card-shadows{
+    box-shadow: 0 0 10px #daba03;
+    background: #fff;
+    
+    left: 9;
+     
+}
+
+.shadowcart{
+	box-shadow: 0 0 10px #5dd4c0;
+    background: #fff;
+    
+    left: 9;
+}
+
+.secnd{
+	box-shadow: 0 0 10px #eb5104;
+    background: #fff;
+    
+    left: 9;
+}
+
+.contactfro{
+	padding-top: 230px;;
+}
+
+.headings{
+    font-size: 4rem;
+}
+
+.navbar{
+    position: sticky;
+    top:0;
+    z-index: 10;
+    background-color:  #E2E2E2;
+}
+
+ 
+/* #E2E2E2 */
