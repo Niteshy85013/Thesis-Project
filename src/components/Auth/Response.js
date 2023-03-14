@@ -8,7 +8,7 @@ const response = () => {
     
     <div class="container  rounded text-center ">
        <div class="row ">
-            <h1 class="text-center mt-5 fw-bold headings">Good to see you again</h1>
+            <h1 class="text-center mt-5 fw-bold headings">Good to see you...</h1>
             <div class="col-md-6 mt-5">
             <h1 class="text-dark mt-2 py-2  fw-bold headings">Join as a <span class="text-danger">Client</span> or <span class="text-danger">Freelancer</span> </h1>
                 <h2 class="fst-italic">Register according to you choice.</h2>
@@ -22,7 +22,7 @@ const response = () => {
             <p className='fs-3 text-warning'>I'm a client, hiring for project</p>
           </h5>
           <div class="d-grid gap-2">
-            <a href="/" class="btn btn-danger bold-btn fw-bold text-light">Register now</a>
+            <a href="/module" class="btn btn-danger bold-btn fw-bold text-light">Register now</a>
           </div>
         </div>
       </div>

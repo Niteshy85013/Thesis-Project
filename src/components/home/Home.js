@@ -5,20 +5,20 @@ const Home = () => {
   return (
     <>
     <section id="home" class="bodymain">
-    <div className="container-fluid ">
-        <div class="row">
-            <div class="col-md-6 text-center py-6">
-                <h1 class="text-dark mt-5 py-5  fw-bold headings">We Bring <span class="text-danger">Grate Talents</span></h1>
+    <div className="container">
+         
+            <div class="col text-center">
+                <h1 class="text-dark py-5 fw-bold headings">We Bring <span class="text-primary">Grate Talents</span></h1>
                 <h2 class="fst-italic">Looking for Quality Technology Products and Marketing for your business</h2>
                 <br/>
                 <a href="/" class="btn btn-warning shadow-lg rounded fw-bold fs-3 cardshd ">Get Started</a>
                 
             </div>
-            <div class="col-md-6  mb-3  text-center ">
+            {/* <div class="col-md-6  mb-3  text-center ">
                 <img src="./image/homemain1.png" class="img-fluid" style={{width:'50rem', height:'35rem'}}alt="homepage"   />
-            </div>
+            </div> */}
 
-        </div>
+       
     </div>
     </section>
   
