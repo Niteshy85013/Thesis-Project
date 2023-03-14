@@ -13,8 +13,9 @@ const Module = () => {
 
             </div> */}
             <div class="col text-center  ">
-                <h1 className='fw-bold'>Browse Talent By Category</h1>
+                <h1 className='fw-bold'>Browse By Category</h1>
                 <h1 className='fst-italic'>Enroll now</h1>
+               
 
                 {/* <button type="button" class="btn btn-danger py-2 mt-3 ms-5 mb-2">Logout</button> */}
 

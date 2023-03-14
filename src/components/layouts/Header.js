@@ -37,7 +37,7 @@ const Header = () => {
 
       </ul>
 
-      <a href="/response" class="btn btn-primary ms-2 fw-bold fs-5">Signup</a>
+      <a href="/response" class="btn btn-dark ms-2 fw-bold fs-5">Signup</a>
       
         <a href="/" class="btn btn-outline-danger ms-2 fw-bold fs-5 " type="submit">Login</a>
       
